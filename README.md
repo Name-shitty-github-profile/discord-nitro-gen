@@ -18,13 +18,20 @@ So paying 50 billions for discord nitro every 13 800 000 000 years wich at the e
 <br>
 # One year version
 ```
-Ram : 6 900 000 0000 000 TB
+Ram : 6 900 000 000 000 TB
 ```
 Cost of the ram : 69 000 000 000 000 $
 # Alltime discord nitro
 ```
 Ram per person : 8,280,000,000,000 TB
+```
 Cost of the ram per person : 828,000,000,000,000 $
+# One nitro per second
+This one is really usefull for giveaways
+```
+Ram : 2.14617600E+20 TB
+```
+Ram cost : 2.14617600E+25 $
 # You can't generate discord nitros.
 All of this for the conclusion that you can't generate discord nitros. The algorithm for mining them is done and here, try it and waste your money and time if you want :)
 # Inspired
