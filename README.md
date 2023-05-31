@@ -9,7 +9,10 @@ Here are the minimum specs of ram you need to be able to "mine" discord nitro
 ```
 Ram : 500 000TB
 ```
-Wich will cost : 50 000 000 000$
+Wich will cost : 50 000 000 000$<br>
+Electricity cost per year : 46,586,400$
+<br>
+Only for the ram!
 <br>
 So paying 50 billions for discord nitro every 13 800 000 000 years wich at the end isn't the best.
 # You can't generate discord nitros.
