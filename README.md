@@ -15,6 +15,13 @@ Electricity cost per year : 46,586,400$
 Only for the ram!
 <br>
 So paying 50 billions for discord nitro every 13 800 000 000 years wich at the end isn't the best.
+<br>
+# One year version
+```
+Ram : 6 900 000 0000 000 TB
+```
+Cost of the ram : 69 000 000 000 000 $
+
 # You can't generate discord nitros.
 All of this for the conclusion that you can't generate discord nitros. The algorithm for mining them is done and here, try it and waste your money and time if you want :)
 # Insired
