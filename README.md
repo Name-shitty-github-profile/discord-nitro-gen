@@ -24,5 +24,5 @@ Cost of the ram : 69 000 000 000 000 $
 
 # You can't generate discord nitros.
 All of this for the conclusion that you can't generate discord nitros. The algorithm for mining them is done and here, try it and waste your money and time if you want :)
-# Insired
+# Inspired
 Extremely inspired by [Yvain nitro brute forcer](https://github.com/Y-v-a-i-n/Discord-Nitro-Bruteforcer)
